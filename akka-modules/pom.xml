@@ -6,7 +6,7 @@
     <artifactId>akka-modules</artifactId>
     <name>akka-modules</name>
     <packaging>pom</packaging>
-
+<!-- This is a new comment from online repo -->
     <parent>
         <artifactId>parent-modules</artifactId>
         <groupId>com.baeldung</groupId>
